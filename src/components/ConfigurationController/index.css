@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.configuration-controller-container {
+  padding: 10px 30px;
+  background-color: #475569;
+  color: white;
+}
+.configuration-controller-container > div > input {
+  display: inline-block;
+}
+input {
+  margin-bottom: 20px;
+}
